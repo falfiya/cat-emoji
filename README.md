@@ -10,8 +10,8 @@ email or open an issue.
 
 name|literal
 -|-
-`:disapproval:`|<img src="disapproval/thumperangery-edited.png" width=40/>
-`:scrunge:`    |<img src="scrunge/scrungeo_s.png" width=40/>
+`:disapproval:`|<img src="disapproval/disapproval_s.png" width=40/>
+`:scrunge:`    |<img src="scrunge/scrunge_s.png" width=40/>
 `:scrumge:`    |<img src="scrumge/scrumge.png" width=40/>
 `:scringe:`    |<img src="scringe/scringe.png" width=40/>
 `:scrange:`    |<img src="scrange/scrange.png" width=40/>
