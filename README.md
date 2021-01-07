@@ -2,11 +2,13 @@
 
 *Emotes of power.*
 
-These original photos aren't mine and most came off of the r/scrungycats
+These original photos aren't mine and most came from the r/scrungycats
 subreddit. I do not own those photos but I am grateful of the people who posted
 them. I'm pretty sure the emoji won't get me in trouble for copyright but if
 someone really doesn't like their cat being used in here, please send me an
 email or open an issue.
+
+:disapproval: out of all of them is special as it is a picture of my friend's very stern cat Thumper.
 
 name|literal
 -|-
