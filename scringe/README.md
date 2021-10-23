@@ -1,6 +1,4 @@
-# scringe [elitist disgust]
-
-<img src="scringe.png" width=40/>
+# <img src="scringe.png" width=40/> scringe [elitist disgust]
 
 Scringe is an expression of disgust, typically used from a position of percieved
 purity or authority looking down on something that is "beneath you".

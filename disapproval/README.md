@@ -1,6 +1,4 @@
-# disapproval [general disapproval]
-
-<img src="disapproval_s.png" width=40/>
+# <img src="disapproval_s.png" width=40/> disapproval [general disapproval]
 
 The first of the cat emotes, this emoji conveys a stern look that is more
 general in nature than the rest of the cat emotes.

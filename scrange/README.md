@@ -1,6 +1,4 @@
-# scrange [outcry, protest, objection]
-
-<img src="scrange.png" width=40/>
+# <img src="scrange.png" width=40/> scrange [outcry, protest, objection]
 
 This emote was created from the annoyance of vague Java instructions and a
 certain impossibly irritating person. It's purpose is to convey outright

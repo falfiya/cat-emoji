@@ -1,6 +1,4 @@
-# scrumge [* █████████ pain laugh *]
-
-<img src="scrumge.png" width=40/>
+# <img src="scrumge.png" width=40/> scrumge [pain laugh]
 
 The meta feeling of schadenfreude that you get from laughing at internal
 suffering, either by means of empathy or because you're actually suffering.

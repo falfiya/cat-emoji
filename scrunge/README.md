@@ -1,6 +1,4 @@
-# scrunge [vague annoyance]
-
-<img src="scrunge_s.png" width=40/>
+# <img src="scrunge_s.png" width=40/> scrunge [general annoyance]
 
 ## where
 

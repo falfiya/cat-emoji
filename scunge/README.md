@@ -1,6 +1,4 @@
-# scunge [neutral dumb reaction]
-
-<img src="scunge.png" width=40>
+# <img src="scunge.png" width=40> scunge [neutral dumb reaction]
 
 A misspelling of `scrunge` during a conversation and the resulting "dumbness" it
 created when reading it back inspired me to create a warped version of `scrunge`
