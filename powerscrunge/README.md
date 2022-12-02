@@ -5,6 +5,6 @@ a disapproving cat-emote.
 
 ## example
 
-Tom: I just added C++ templates into Python.
+Alice: I just added C++ templates into Python.
 
-Tom: <img src="powerscrunge_s.png" width=40/>
+Alice: <img src="powerscrunge_s.png" width=40/>

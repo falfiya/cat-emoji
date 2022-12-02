@@ -1,6 +1,6 @@
-# cat-emotes
+# cat-emoji
 
-*Emotes of power.*
+*Emoji of power.*
 
 These original photos aren't mine and most came off of the
 [r/scrungycats](https://www.reddit.com/r/scrungycats/) subreddit.

@@ -5,6 +5,6 @@ name change to `scronge`.
 
 ## example
 
-Caitlin: Thank you for the explanation. I remember nothing.
+Eve: Thank you for the explanation. I remember nothing.
 
-Mia: <img src="scronge.png" width=20/>
+Alice: <img src="scronge.png" width=20/>

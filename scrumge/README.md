@@ -7,11 +7,11 @@ This is the only emoji with a black border.
 
 ## example
 
-Syl: So in order to disable that context menu...
+Bob: So in order to disable that context menu...
 
-Cerys: Yes, you have to be TrustedInstaller and then you can disable it.
+Bob: Yes, you have to be TrustedInstaller and then you can disable it.
 
-Syl: <img src="scrumge.png" width=20/> that's so bad hahaha.
+Alice: <img src="scrumge.png" width=20/> that's so bad hahaha.
 
 ## where
 
